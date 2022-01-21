@@ -4,5 +4,5 @@ metadata:
   name: feature-toggle 
   namespace: sybarra
 data:
-  LOCATION_FEATURE_ENABLED: "False"
+  LOCATION_FEATURE_ENABLED: "True"
   
