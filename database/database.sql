@@ -1,7 +1,7 @@
 --
 -- PostgreSQL database dump
 --
--- This is a comment :D
+-- Make a 3x3 grid lol
 -- Dumped from database version 9.5.4
 -- Dumped by pg_dump version 9.5.4
 
